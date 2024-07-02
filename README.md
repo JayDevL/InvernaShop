@@ -14,3 +14,5 @@ Servers - Brenda Miranda Huerta
 
 **Database:**
 SQL - Ivan Romero Landa
+
+project uploaded with demo fines.
